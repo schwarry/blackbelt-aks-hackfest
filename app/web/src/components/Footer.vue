@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Don't give out your credit card to anyone!!!
+        Seattle Snow Sucks!!!
       </div>
       <div class="col-lg-6">
       </div>
