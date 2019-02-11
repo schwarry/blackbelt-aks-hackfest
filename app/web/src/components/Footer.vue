@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Kubernetes BJJ Black Belt
+        Kubernetes BJJ Black Belt changed
       </div>
       <div class="col-lg-6">
       </div>
