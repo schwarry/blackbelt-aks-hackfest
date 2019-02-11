@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Kubernetes BJJ Black Belt changed
+        Don't give out your credit card to anyone!!!
       </div>
       <div class="col-lg-6">
       </div>
